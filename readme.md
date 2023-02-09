@@ -1,6 +1,7 @@
 # Phase 1 - AutoPano using classical techniques
 
-First download all the required data from the source in Phase1/Data/ directory 
+First download all the required data from the source in Phase1/Data/ directory. 
+
 Use this comand to open the directory for phase 1:
 `cd usankar_p1/Phase1`
 
@@ -34,7 +35,8 @@ All the results will be stored in the folder shown below:
 
 # Phase 2 - Deep Learning Approach
 
-First download all the required data from the source in Phase2/Data/ directory. 
+First download all the required data from the source in Phase2/Data/ directory. Also, add a Checkpoints folder in Phase2/ directory.
+
 Generate data using data_generation file, while having the Train and Val images in Data, inside Phase2/ directory.
 
 To train the supervised model, run `python3 Train_supervised.py`

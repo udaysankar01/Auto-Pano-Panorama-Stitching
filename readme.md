@@ -35,6 +35,7 @@ To run the panorama stitching for Test Set 4:
 `python Wrapper.py --ImagesFolder Data/Test/TestSet4`
 
 All the results will be stored in the folder shown below:
+
 `./Results/`
 
 

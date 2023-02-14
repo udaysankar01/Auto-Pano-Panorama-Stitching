@@ -4,7 +4,7 @@ First download all the required data from the source in Phase1/Data/ directory.
 
 Use this comand to open the directory for phase 1:
 
-`cd usankar_p1/Phase1`
+`cd ./Phase1`
 
 To run the panorama stitching for Train Set 1:
 

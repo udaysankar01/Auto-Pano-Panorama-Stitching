@@ -3,27 +3,35 @@
 First download all the required data from the source in Phase1/Data/ directory. 
 
 Use this comand to open the directory for phase 1:
+
 `cd usankar_p1/Phase1`
 
 To run the panorama stitching for Train Set 1:
+
 `python Wrapper.py --ImagesFolder Data/Train/Set1`
 
 To run the panorama stitching for Train Set 2:
+
 `python Wrapper.py --ImagesFolder Data/Train/Set2`
 
 To run the panorama stitching for Train Set 3:
+
 `python Wrapper.py --ImagesFolder Data/Train/Set3`
 
 To run the panorama stitching for Test Set 1:
+
 `python Wrapper.py --ImagesFolder Data/Test/TestSet1`
 
 To run the panorama stitching for Test Set 2:
+
 `python Wrapper.py --ImagesFolder Data/Test/TestSet2`
 
 To run the panorama stitching for Test Set 3:
+
 `python Wrapper.py --ImagesFolder Data/Test/TestSet3`
 
 To run the panorama stitching for Test Set 4:
+
 `python Wrapper.py --ImagesFolder Data/Test/TestSet4`
 
 All the results will be stored in the folder shown below:
